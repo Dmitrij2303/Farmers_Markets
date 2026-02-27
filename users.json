@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "email": "ivan@mail.com",
+    "login": "ivan",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$YwXcMkMFmmyByK1lNc8XPA$dHHK0XHpKBRj3JrPQcYDJd8wm+Bph+QqkFp+UIim6p0",
+    "first": "Иван",
+    "last": "Иванов",
+    "created_at": "2026-02-26T12:30:39Z"
+  },
+  {
+    "id": 1,
+    "email": "anna@example.com",
+    "login": "anna",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$sEmAR3op+hqqUpKD3YathA$8Nk8Kx3vHZ/6Rj68vEAZbyGNisP2vLBC6gwdrZ6lvvY",
+    "first": "Анна",
+    "last": "Петрова",
+    "created_at": "2026-02-27T11:10:00Z"
+  },
+  {
+    "id": 2,
+    "email": "max@example.com",
+    "login": "max",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$GRhOFFe8Va+KCJkCtSVE+w$j3YxklF79U/46MfChz3hhECg9pT1CGLHkRUyewWpPB0",
+    "first": "Максим",
+    "last": "Сидоров",
+    "created_at": "2026-02-27T11:20:00Z"
+  },
+  {
+    "id": 3,
+    "email": "user@example.com",
+    "login": "petr",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$xGNfo3Plkx4Fx/A/hXpy6w$lohVjHh2ALSIGqqgmE1bc2mFSsqop0l+e9cJEDKNPP8",
+    "first": "",
+    "last": "",
+    "created_at": "2026-02-27T15:43:17Z"
+  }
+]
